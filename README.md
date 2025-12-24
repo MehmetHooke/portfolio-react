@@ -29,8 +29,6 @@ src/
 ├─ index.css # Global styles
 └─ Body.tsx # Main page layout
 
-bash
-Kodu kopyala
 
 ## 📦 Installation & Setup
 
@@ -42,13 +40,9 @@ cd portfolio-react
 npm install
 Run the development server:
 
-bash
-Kodu kopyala
+
 npm run dev
 Then open your browser at:
-
-arduino
-Kodu kopyala
 http://localhost:5173
 🧩 Projects Included
 QuickCV
@@ -72,6 +66,7 @@ Showcase my frontend & mobile development skills
 📬 Contact
 GitHub: https://github.com/MehmetHooke
 
-LinkedIn: (add your LinkedIn link here)
+LinkedIn: https://www.linkedin.com/in/mehmethoke/
 
-Email: (add your email here)
+Email: hoke628@gmail.com
+
