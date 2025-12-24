@@ -1,4 +1,4 @@
-import React from 'react'
+
 import './Body.css'
 import profile from "./assets/profile.jpeg";
 import ProjectCard from './components/ProjectCard';
